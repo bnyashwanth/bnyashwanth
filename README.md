@@ -55,14 +55,11 @@
 ### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bnyashwanth&show_icons=true&theme=radium" alt="Yashwanth's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnyashwanth&theme=radium" alt="Yashwanth's GitHub Streak" width="48%" />
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/BN_Yashwanth?theme=dark&font=Syne" alt="Yashwanth's LeetCode Stats" />
 </p>
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` and `YOUR_LEETCODE_USERNAME` in the URLs above to activate the live stat cards!)*
 
 ---
 
