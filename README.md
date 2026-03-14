@@ -40,18 +40,15 @@
 
 ### 🚀 Featured Projects
 
-* **[PhazeGEN](YOUR_REPO_LINK)** 🧬
+* **PhazeGEN** 🧬
   * A genome-driven platform for antimicrobial resistance analysis.
   * *[Live Demo](YOUR_PHAZEGEN_URL_HERE)*
-* **[CargoGuard AI](YOUR_REPO_LINK)** 🚢
+* **CargoGuard AI** 🚢
   * A predictive AI system for real-time cargo risk monitoring.
-  * *[Live Demo](YOUR_CARGOGUARD_URL_HERE)*
-* **[FreshIn10](YOUR_REPO_LINK)** 🛒
-  * A hyperlocal fresh-produce delivery platform.
-  * *[Live Demo](YOUR_FRESHIN10_URL_HERE)*
-* **[my-sales-agent](YOUR_REPO_LINK)** 🤖
+  * *[Live Demo](https://cargoguard-ai-wyyeisb74bu7wsk38ygryo.streamlit.app/)*
+* **RFP-AI Agent** 🤖
   * An autonomous Agentic AI project exploring automated workflows.
-  * *[Live Demo](YOUR_AGENT_URL_HERE)*
+  * *[Live Demo](https://rfp-ai-agent-theta.vercel.app/)*
 
 ---
 
