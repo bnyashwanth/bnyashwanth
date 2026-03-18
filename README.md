@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=B%20N%20Yashwanth&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Ex-Intern @YugaYatra,@freshin10 | Full-Stack Developer(MERN) |%20CP%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=B%20N%20Yashwanth&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Ex-Intern%20%40YugaYatra%2C%40freshin10%20%7C%20Full-Stack%20Developer%20(MERN)%20%7C%20CP%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+%26+Systems+Engineer;Full-Stack+Developer;AI-Powered+App+Builder;Competitive+Programmer+%F0%9F%8F%86;LeetCode+Knight+%7C+CF+Specialist" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ```typescript
 const divyansh = {
-  university        : "IIT (BHU) Varanasi",
+  university        : "Dayananda Sagar College of Engineering",
   degree            : "B.Tech Undergraduate",
   interests         : ["Backend Engineering", "Full-Stack Dev", "AI Applications",
                        "Distributed Systems", "Competitive Programming"],
