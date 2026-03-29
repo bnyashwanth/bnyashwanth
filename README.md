@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=B%20N%20Yashwanth&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ex-Intern @Yugayatra ,,|@freshin10%20%7C%20Full-Stack%20%7C%20AI%20Builder%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=B%20N%20Yashwanth&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ex-Intern%20@YugaYatra%20|%20@Freshin10%20|%20Full-Stack%20Developer%20|%20CP%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%26+Systems+Engineer;Full-Stack+Developer+(MERN);AI-Powered+Product+Builder;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Full-Stack+Developer+(MERN+%2B+Next.js);AI-Powered+Product+Builder;Competitive+Programmer+(C%2B%2B)" />
 </a>
 
-<br />
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bn-yashwanth/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bnyashwanth2006@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BN_Yashwanth/)
+<a href="https://www.linkedin.com/in/bn-yashwanth/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bnyashwanth2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/BN_Yashwanth/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -19,18 +25,21 @@
 ## About Me
 
 ```ts
-const bnyashwanth = {
+const yashwanth = {
   role: "Backend + Full-Stack Developer",
   college: "Dayananda Sagar College of Engineering",
-  degree: "B.Tech Undergraduate",
-  interests: [
+  degree: "B.Tech (2028)",
+  focus: [
     "Backend Engineering",
     "Distributed Systems",
-    "Full-Stack Development",
     "AI Applications",
-    "Competitive Programming"
+    "System Design"
   ],
-  currentlyLearning: ["System Design", "Kubernetes", "LLM Fine-tuning"]
+  currentlyLearning: [
+    "Kubernetes",
+    "LLM Fine-Tuning",
+    "Scalable Architectures"
+  ]
 };
 ```
 
