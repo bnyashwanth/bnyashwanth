@@ -93,9 +93,9 @@ I enjoy building practical products with clean architecture, strong developer ex
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=bnyashwanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub stats" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=bnyashwanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bnyashwanth&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B35&currStreakLabel=7C3AED" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=bnyashwanth&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B35&currStreakLabel=7C3AED" height="165" alt="GitHub streak" />
 
 </div>
 
@@ -104,10 +104,10 @@ I enjoy building practical products with clean architecture, strong developer ex
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bnyashwanth&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-</div>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bnyashwanth&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+
+</div>
 
 ## Let's Connect
 
